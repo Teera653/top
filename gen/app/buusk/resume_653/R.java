@@ -31,9 +31,15 @@ public final class R {
         public static final int View03=0x7f08000f;
         public static final int View04=0x7f080012;
         public static final int View06=0x7f080006;
-        public static final int action_settings=0x7f080015;
+        public static final int action_settings=0x7f08001b;
+        public static final int btnedit=0x7f080002;
         public static final int btnimg=0x7f080003;
-        public static final int button1=0x7f080002;
+        public static final int button1=0x7f08001a;
+        public static final int editText1=0x7f080015;
+        public static final int editText2=0x7f080016;
+        public static final int editText3=0x7f080017;
+        public static final int editText4=0x7f080018;
+        public static final int editText5=0x7f080019;
         public static final int imageView1=0x7f080000;
         public static final int linearLayout1=0x7f080004;
         public static final int textView1=0x7f080001;
@@ -51,7 +57,8 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int top1=0x7f030001;
+        public static final int edit653=0x7f030001;
+        public static final int top1=0x7f030002;
     }
     public static final class menu {
         public static final int main=0x7f070000;
